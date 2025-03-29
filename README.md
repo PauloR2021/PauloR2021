@@ -1,16 +1,42 @@
-## Hi there 👋
+## Olá! Eu sou o Paulo Ricardo👋🏿
 
-<!--
-**PauloR2021/PauloR2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho com Análise de Desenvolvimento de Sistemas e Automações RPA
+- 🌱 Sou estudante de Kotlin,Android SDK,Java e PHP
+- 📘 Formado em Tecnologia da Informação 💻 , Tecnologia em Ciência de Dados 🎲
+- 🖥️ Cursando Análise de Desenvolvimento de Sistemas 
 
-Here are some ideas to get you started:
+## Back-End
+<div>
+  <div style="display: inline_block">
+  <img align="center" alt="Paulo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Paulo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Paulo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Paulo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Front-End
+<div>
+ <div style="display: inline_block">
+  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+</div><br>
+
+<div><br>
+  <a href="https://beacons.ai/PauloR2021">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloR2021&show_icons=true&theme=dracula"><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloR2021&show_icons=true&theme=dracula">
+</div>
+
+## 🔗 Contato
+<div> 
+  <a href="https://www.linkedin.com/in/paulo-ricardo-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/PauloR201" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+  
+</div>
+
+
+
