@@ -26,7 +26,7 @@
 
 <div><br>
   <a href="https://beacons.ai/PauloR2021">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloR2021&show_icons=true&theme=dracula"><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloR2021&show_icons=true&theme=dracula">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloR2021&show_icons=true&theme=dracula">
 </div>
 
