@@ -25,12 +25,6 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div><br>
 
-<div><br>
-  <a href="https://beacons.ai/PauloR2021">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloR2021&show_icons=true&theme=dracula">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloR2021&show_icons=true&theme=dracula">
-</div>
-
 ## 🔗 Contato
 <div> 
   <a href="https://www.linkedin.com/in/paulo-ricardo-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
