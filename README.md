@@ -5,6 +5,8 @@
 - 💻 Formado em Tecnologia da Informação, Tecnologia em Ciência de Dados 🎲
 - 🖥️ Cursando Análise de Desenvolvimento de Sistemas
 - 🖥️ Cursando Pós-Graduação Lato Sensu em Desenvolvimento de Sistemas com Java
+- 🖥️ Cursando Pós-Graduação Lato Sensu em Engenharia Eletrônica e Robótica
+- 🖥️ Cursando Pós-Graduação Lato Sensu em Ciências de Dados E Inteligência Artifical
 
 ## Back-End
 <div>
