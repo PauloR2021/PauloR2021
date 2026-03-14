@@ -2,9 +2,9 @@
 
 - 🔭 Trabalho com Análise de Desenvolvimento de Sistemas e Automações RPA
 - 🌱 Sou estudante de Kotlin,Android SDK,Java e PHP
-- 💻 Formado em Tecnologia da Informação, Tecnologia em Ciência de Dados 🎲
-- 🖥️ Cursando Análise de Desenvolvimento de Sistemas
-- 🖥️ Cursando Pós-Graduação Lato Sensu em Desenvolvimento de Sistemas com Java
+- 💻 Formado em Tecnologia da Informação, Tecnologia em Ciência de Dados 🎲, Análise de Desenvolvimento de Sistemas
+- 💻 Pós Graduado em  Desenvolvimento de Sistema com Java
+- 🖥️ Cursando Pós-Graduação Lato Sensu em Java - UTFPR
 - 🖥️ Cursando Pós-Graduação Lato Sensu em Engenharia Eletrônica e Robótica
 - 🖥️ Cursando Pós-Graduação Lato Sensu em Ciências de Dados E Inteligência Artifical
 
